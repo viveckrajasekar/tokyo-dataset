@@ -1,0 +1,9 @@
+{
+	"name": "vvinstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e8fc056-95c5-436f-8414-1cf6814b8c48",
+		"tenantId": "72df0693-c296-49b4-8595-570deb934209"
+	}
+}
